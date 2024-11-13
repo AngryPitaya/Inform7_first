@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-1">
+  <generator>Windows Inform 10.1.2</generator>
+  <item nodeId="node-1">
+    <command xml:space="preserve">test1</command>
+    <result xml:space="preserve">This game is for entertainment purposes only.&#x000A;&#x000A;Welcome to the Boyfriend Survival Test! Each correct answer will earn you 10 points. Maximum score: 50 points.&#x000A;&#x000A;Question Room 1&#x000A;Question 1: When you're at a club and a girl keeps rubbing against you, what do you do?&#x000A;A. Keep a distance from her.&#x000A;B. Why would I go clubbing? Who will wash my clothes and clean the floor?&#x000A;C. When I start dancing, I'm like the wind. She can't even touch me.&#x000A;&#x000A;test1&#x000A;An Interactive Fiction by YPY&#x000A;Release 1 / Serial number 241113 / Inform 7 v10.1.2 / D&#x000A;&#x000A;Question Room 1&#x000A;Question 1: When you're at a club and a girl keeps rubbing against you, what do you do?&#x000A;A. Keep a distance from her.&#x000A;B. Why would I go clubbing? Who will wash my clothes and clean the floor?&#x000A;C. When I start dancing, I'm like the wind. She can't even touch me.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-16"/>
+      <child nodeId="node-25"/>
+      <child nodeId="node-2"/>
+    </children>
+  </item>
+  <item nodeId="node-16">
+    <command xml:space="preserve">A</command>
+    <result xml:space="preserve">Incorrect.&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-28"/>
+      <child nodeId="node-17"/>
+      <child nodeId="node-41"/>
+    </children>
+  </item>
+  <item nodeId="node-28">
+    <command xml:space="preserve">B</command>
+    <result xml:space="preserve">Correct! You're a great boyfriend!&#x000A;&#x000A;Question Room 2&#x000A;Question 2: Do you have a favorite girl on Instagram?&#x000A;A. I'll have one when you start using Instagram.&#x000A;B. Yes, I follow a few nice ones.&#x000A;C. No, I prefer some TikTok streamers.&#x000A;&#x000A;Incorrect.&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-17">
+    <command xml:space="preserve">C</command>
+    <result xml:space="preserve">Hint: There's a trap in this question! The real focus is to avoid clubbing.&#x000A;Moving on to the next question.&#x000A;&#x000A;Question Room 2&#x000A;Question 2: Do you have a favorite girl on Instagram?&#x000A;A. I'll have one when you start using Instagram.&#x000A;B. Yes, I follow a few nice ones.&#x000A;C. No, I prefer some TikTok streamers.&#x000A;&#x000A;Incorrect.&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-18"/>
+    </children>
+  </item>
+  <item nodeId="node-18">
+    <command xml:space="preserve">A</command>
+    <result xml:space="preserve">Correct! You're a great boyfriend!&#x000A;&#x000A;Question Room 3&#x000A;Question 3: If we fight and I run away from home, would you contact me first?&#x000A;A. Depends on whose fault it is.&#x000A;B. I'd call you like crazy. I'd worry about you alone out there.&#x000A;C. Fighting doesn't exist; I'd never give you a reason to be angry.&#x000A;&#x000A;Incorrect.&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-19"/>
+    </children>
+  </item>
+  <item nodeId="node-19">
+    <command xml:space="preserve">C</command>
+    <result xml:space="preserve">Correct! You're a great boyfriend!&#x000A;&#x000A;Question Room 4&#x000A;Question 4: A female colleague wants to drink with you and gets drunk. She asks you to take her home. What do you do?&#x000A;A. She's a colleague, so I'll make sure she's safe and take her to her door.&#x000A;B. Haha, she wants to ask me out? No way!&#x000A;C. I'd call her friend to come pick her up.&#x000A;&#x000A;Incorrect.&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-20"/>
+      <child nodeId="node-21"/>
+    </children>
+  </item>
+  <item nodeId="node-20">
+    <command xml:space="preserve">A</command>
+    <result xml:space="preserve">Hint: Why go drinking with a female colleague? Is your girlfriend not fun enough?&#x000A;Moving on to the next question.&#x000A;&#x000A;Question Room 5&#x000A;Question 5: Your girlfriend is peeling crawfish, and some oil drips onto your brand new designer suit. What do you do?&#x000A;A. No problem, just wash it for me at home.&#x000A;B. It's okay; it's a fake designer suit.&#x000A;C. As long as I have hands, I'll never let you peel crawfish alone.&#x000A;&#x000A;Incorrect.&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-21">
+    <command xml:space="preserve">B</command>
+    <result xml:space="preserve">Correct! You're a great boyfriend!&#x000A;&#x000A;Question Room 5&#x000A;Question 5: Your girlfriend is peeling crawfish, and some oil drips onto your brand new designer suit. What do you do?&#x000A;A. No problem, just wash it for me at home.&#x000A;B. It's okay; it's a fake designer suit.&#x000A;C. As long as I have hands, I'll never let you peel crawfish alone.&#x000A;&#x000A;Incorrect.&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-22"/>
+    </children>
+  </item>
+  <item nodeId="node-22">
+    <command xml:space="preserve">B</command>
+    <result xml:space="preserve">Hint: Don't focus on the oil or designer suit. Help her with the crawfish instead!&#x000A;30 points! Pass, but you could improve.&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-23"/>
+    </children>
+  </item>
+  <item nodeId="node-23">
+    <command xml:space="preserve">C</command>
+    <result xml:space="preserve">Correct! You're a great boyfriend!&#x000A;40 points! Good job!&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-24"/>
+    </children>
+  </item>
+  <item nodeId="node-24">
+    <command xml:space="preserve">S</command>
+    <result xml:space="preserve">Please answer the question by typing A, B, or C.&#x000A;&#x000A;&#x000A;&#x000A;    *** The End ***&#x000A;&#x000A;&#x000A;In that game you scored 40 out of a possible 0, in 1 turn.&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-41">
+    <command xml:space="preserve">c</command>
+    <result xml:space="preserve">Hint: There's a trap in this question! The real focus is to avoid clubbing.&#x000A;Moving on to the next question.&#x000A;&#x000A;Question Room 2&#x000A;Question 2: Do you have a favorite girl on Instagram?&#x000A;A. I'll have one when you start using Instagram.&#x000A;B. Yes, I follow a few nice ones.&#x000A;C. No, I prefer some TikTok streamers.&#x000A;&#x000A;Incorrect.&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-42"/>
+    </children>
+  </item>
+  <item nodeId="node-42">
+    <command xml:space="preserve">b</command>
+    <result xml:space="preserve">Hint: Thinking of other women? Bad boyfriend!&#x000A;Moving on to the next question.&#x000A;&#x000A;Question Room 3&#x000A;Question 3: If we fight and I run away from home, would you contact me first?&#x000A;A. Depends on whose fault it is.&#x000A;B. I'd call you like crazy. I'd worry about you alone out there.&#x000A;C. Fighting doesn't exist; I'd never give you a reason to be angry.&#x000A;&#x000A;Incorrect.&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-52"/>
+    </children>
+  </item>
+  <item nodeId="node-52">
+    <command xml:space="preserve">C</command>
+    <result xml:space="preserve">Correct! You're a great boyfriend!&#x000A;&#x000A;Question Room 4&#x000A;Question 4: A female colleague wants to drink with you and gets drunk. She asks you to take her home. What do you do?&#x000A;A. She's a colleague, so I'll make sure she's safe and take her to her door.&#x000A;B. Haha, she wants to ask me out? No way!&#x000A;C. I'd call her friend to come pick her up.&#x000A;&#x000A;Incorrect.&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-25">
+    <command xml:space="preserve">B</command>
+    <result xml:space="preserve">Correct! You're a great boyfriend!&#x000A;&#x000A;Question Room 2&#x000A;Question 2: Do you have a favorite girl on Instagram?&#x000A;A. I'll have one when you start using Instagram.&#x000A;B. Yes, I follow a few nice ones.&#x000A;C. No, I prefer some TikTok streamers.&#x000A;&#x000A;Incorrect.&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-26"/>
+    </children>
+  </item>
+  <item nodeId="node-26">
+    <command xml:space="preserve">C</command>
+    <result xml:space="preserve">Hint: Thinking of other women? Bad boyfriend!&#x000A;Moving on to the next question.&#x000A;&#x000A;Question Room 3&#x000A;Question 3: If we fight and I run away from home, would you contact me first?&#x000A;A. Depends on whose fault it is.&#x000A;B. I'd call you like crazy. I'd worry about you alone out there.&#x000A;C. Fighting doesn't exist; I'd never give you a reason to be angry.&#x000A;&#x000A;Correct! You're a great boyfriend!&#x000A;&#x000A;Question Room 4&#x000A;Question 4: A female colleague wants to drink with you and gets drunk. She asks you to take her home. What do you do?&#x000A;A. She's a colleague, so I'll make sure she's safe and take her to her door.&#x000A;B. Haha, she wants to ask me out? No way!&#x000A;C. I'd call her friend to come pick her up.&#x000A;&#x000A;Incorrect.&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-27"/>
+    </children>
+  </item>
+  <item nodeId="node-27">
+    <command xml:space="preserve">A</command>
+    <result xml:space="preserve">Hint: Why go drinking with a female colleague? Is your girlfriend not fun enough?&#x000A;Moving on to the next question.&#x000A;&#x000A;Question Room 5&#x000A;Question 5: Your girlfriend is peeling crawfish, and some oil drips onto your brand new designer suit. What do you do?&#x000A;A. No problem, just wash it for me at home.&#x000A;B. It's okay; it's a fake designer suit.&#x000A;C. As long as I have hands, I'll never let you peel crawfish alone.&#x000A;&#x000A;Incorrect.&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-2">
+    <command xml:space="preserve">C</command>
+    <result xml:space="preserve">Hint: There's a trap in this question! The real focus is to avoid clubbing.&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-3"/>
+    </children>
+  </item>
+  <item nodeId="node-3">
+    <command xml:space="preserve">B</command>
+    <result xml:space="preserve">Correct! You're a great boyfriend!&#x000A;&#x000A;Question Room 2&#x000A;Question 2: Do you have a favorite girl on Instagram?&#x000A;A. I'll have one when you start using Instagram.&#x000A;B. Yes, I follow a few nice ones.&#x000A;C. No, I prefer some TikTok streamers.&#x000A;&#x000A;Hint: Thinking of other women? Bad boyfriend!&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-4"/>
+    </children>
+  </item>
+  <item nodeId="node-4">
+    <command xml:space="preserve">C</command>
+    <result xml:space="preserve">Hint: Thinking of other women? Bad boyfriend!&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-5"/>
+    </children>
+  </item>
+  <item nodeId="node-5">
+    <command xml:space="preserve">A</command>
+    <result xml:space="preserve">Correct! You're a great boyfriend!&#x000A;&#x000A;Question Room 3&#x000A;Question 3: If we fight and I run away from home, would you contact me first?&#x000A;A. Depends on whose fault it is.&#x000A;B. I'd call you like crazy. I'd worry about you alone out there.&#x000A;C. Fighting doesn't exist; I'd never give you a reason to be angry.&#x000A;&#x000A;Hint: Why let a fight happen at all? Let her vent her anger in small ways!&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-6"/>
+    </children>
+  </item>
+  <item nodeId="node-6">
+    <command xml:space="preserve">B</command>
+    <result xml:space="preserve">Hint: Why let a fight happen at all? Let her vent her anger in small ways!&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-7"/>
+    </children>
+  </item>
+  <item nodeId="node-7">
+    <command xml:space="preserve">B</command>
+    <result xml:space="preserve">Hint: Why let a fight happen at all? Let her vent her anger in small ways!&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-8"/>
+    </children>
+  </item>
+  <item nodeId="node-8">
+    <command xml:space="preserve">B</command>
+    <result xml:space="preserve">Hint: Why let a fight happen at all? Let her vent her anger in small ways!&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-9"/>
+    </children>
+  </item>
+  <item nodeId="node-9">
+    <command xml:space="preserve">B</command>
+    <result xml:space="preserve">Hint: Why let a fight happen at all? Let her vent her anger in small ways!&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-10"/>
+    </children>
+  </item>
+  <item nodeId="node-10">
+    <command xml:space="preserve">A</command>
+    <result xml:space="preserve">Hint: Why let a fight happen at all? Let her vent her anger in small ways!&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-11"/>
+    </children>
+  </item>
+  <item nodeId="node-11">
+    <command xml:space="preserve">C</command>
+    <result xml:space="preserve">Correct! You're a great boyfriend!&#x000A;&#x000A;Question Room 4&#x000A;Question 4: A female colleague wants to drink with you and gets drunk. She asks you to take her home. What do you do?&#x000A;A. She's a colleague, so I'll make sure she's safe and take her to her door.&#x000A;B. Haha, she wants to ask me out? No way!&#x000A;C. I'd call her friend to come pick her up.&#x000A;&#x000A;Hint: Why go drinking with a female colleague? Is your girlfriend not fun enough?&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-12"/>
+    </children>
+  </item>
+  <item nodeId="node-12">
+    <command xml:space="preserve">C</command>
+    <result xml:space="preserve">Hint: Why go drinking with a female colleague? Is your girlfriend not fun enough?&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-13"/>
+    </children>
+  </item>
+  <item nodeId="node-13">
+    <command xml:space="preserve">B</command>
+    <result xml:space="preserve">Correct! You're a great boyfriend!&#x000A;&#x000A;Question Room 5&#x000A;Question 5: Your girlfriend is peeling crawfish, and some oil drips onto your brand new designer suit. What do you do?&#x000A;A. No problem, just wash it for me at home.&#x000A;B. It's okay; it's a fake designer suit.&#x000A;C. As long as I have hands, I'll never let you peel crawfish alone.&#x000A;&#x000A;Hint: Don't focus on the oil or designer suit. Help her with the crawfish instead!&#x000A;40 points! Good job!&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-14"/>
+    </children>
+  </item>
+  <item nodeId="node-14">
+    <command xml:space="preserve">C</command>
+    <result xml:space="preserve">Correct! You're a great boyfriend!&#x000A;50 points! Excellent!&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-15"/>
+    </children>
+  </item>
+  <item nodeId="node-15">
+    <command xml:space="preserve">C</command>
+    <result xml:space="preserve">Correct! You're a great boyfriend!&#x000A;60 points! Not qualified.&#x000A;That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+</Skein>
